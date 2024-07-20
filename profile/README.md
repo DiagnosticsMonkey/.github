@@ -15,8 +15,9 @@ Diagnostics cannot be destroyed.
 
 ## DevContainers
 
- - [Zephyr](https://github.com/DiagnosticsMonkey/DevContainer-Zephyr)
  - [Python](https://github.com/DiagnosticsMonkey/DevContainer-Python)
+ - [Zephyr](https://github.com/DiagnosticsMonkey/DevContainer-Zephyr)
+ - [NRF](https://github.com/DiagnosticsMonkey/DevContainer-NRF)
 
 ## Tools
 
