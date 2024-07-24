@@ -22,3 +22,7 @@ Diagnostics cannot be destroyed.
 ## Tools
 
 Coming soon...
+
+## DaFT
+
+- [DaFT - Embedded C](https://github.com/DiagnosticsMonkey/DaFT-EmbeddedC)
