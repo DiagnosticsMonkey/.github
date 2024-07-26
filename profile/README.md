@@ -25,4 +25,4 @@ Coming soon...
 
 ## DaFT
 
-- [DaFT - C for Sparkplugs](https://diagnosticsmonkey.github.io/DaFT-C4Sparkplugs/#/))
+- [DaFT - C for Sparkplugs](https://diagnosticsmonkey.github.io/DaFT-C4Sparkplugs/#/)
