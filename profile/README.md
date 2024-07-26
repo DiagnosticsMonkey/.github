@@ -25,4 +25,4 @@ Coming soon...
 
 ## DaFT
 
-- [DaFT - Embedded C](https://github.com/DiagnosticsMonkey/DaFT-EmbeddedC)
+- [DaFT - C for Sparkplugs](https://diagnosticsmonkey.github.io/DaFT-C4Sparkplugs/#/))
