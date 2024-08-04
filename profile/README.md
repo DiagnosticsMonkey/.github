@@ -12,6 +12,7 @@ Diagnostics cannot be destroyed.
  - [BASH](https://github.com/DiagnosticsMonkey/Template-BASH)
  - [Docsify](https://github.com/DiagnosticsMonkey/Template-Docsify)
  - [KiCad](https://github.com/DiagnosticsMonkey/Template-KiCAD)
+ - [Python](https://github.com/DiagnosticsMonkey/Template-Python)
 
 ## DevContainers
 
