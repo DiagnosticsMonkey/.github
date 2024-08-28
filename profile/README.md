@@ -24,6 +24,7 @@ Diagnostics cannot be destroyed.
 
 Coming soon...
 
-## DaFT
+## DaFT - Diagnosics and Friends Teach
 
 - [DaFT - C for Sparkplugs](https://diagnosticsmonkey.github.io/DaFT-C4Sparkplugs/#/)
+- [DaFT - RTOS](https://diagnosticsmonkey.github.io/DaFT-RTOS/#/)
