@@ -23,6 +23,7 @@ Diagnostics cannot be destroyed.
 ## Tools
 
 - [Ponder](https://diagnosticsmonkey.github.io/Tool-Ponder/) - Isolated Hexa UART-USB
+- [Ponder Pico2](https://diagnosticsmonkey.github.io/Tool-Ponder_Pico2/#/) - Pico 2 based version of Ponder
 
 ## DaFT - Diagnosics and Friends Teach
 
