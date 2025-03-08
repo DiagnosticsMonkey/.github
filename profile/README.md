@@ -1,4 +1,4 @@
-# Diagnostics is Dead, long live Diagnostics!
+# Diagnostics is Dead; long live Diagnostics!
 
 Diagnostics cannot be destroyed.
 
