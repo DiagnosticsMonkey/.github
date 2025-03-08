@@ -25,7 +25,7 @@ Diagnostics cannot be destroyed.
 - [Ponder](https://diagnosticsmonkey.github.io/Tool-Ponder/) - Isolated Hexa UART-USB
 - [Ponder Pico2](https://diagnosticsmonkey.github.io/Tool-Ponder_Pico2/#/) - Pico 2 based version of Ponder
 
-## DaFT - Diagnosics and Friends Teach
+## DaFT - Diagnostics and Friends Teach
 
 - [DaFT - C for Sparkplugs](https://diagnosticsmonkey.github.io/DaFT-C4Sparkplugs/#/)
 - [DaFT - RTOS](https://diagnosticsmonkey.github.io/DaFT-RTOS/#/)
